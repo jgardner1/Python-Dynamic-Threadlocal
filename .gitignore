@@ -1,0 +1,4 @@
+dynamic_threadlocal.egg-info/
+setup.cfg
+*.pyc
+*.pyo
